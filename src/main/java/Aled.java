@@ -11,4 +11,5 @@
 public class Aled {
     //Aled
     String oskur="oskur";
+    int six = 7;
 }
