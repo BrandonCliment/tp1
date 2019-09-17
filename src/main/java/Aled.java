@@ -10,5 +10,6 @@
  */
 public class Aled {
     //Aled
-    String oskur="oskur";
+    String nion="nion";
+    int six=6;
 }
